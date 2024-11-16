@@ -1,9 +1,8 @@
 # Language Learning Application
 
----
 
-[demo video](./demo/mehtab-demo.mov)
 
-<video controls>
-  <source src="./demo/mehtab-demo.mov" type="video/mov" />
-</video>
+[Download demo video](./demo/mehtab-demo.mov)
+
+
+https://github.com/user-attachments/assets/e6f2c051-b28f-415a-9826-93c1d4ac01e2
